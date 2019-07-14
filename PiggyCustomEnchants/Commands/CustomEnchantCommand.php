@@ -16,7 +16,7 @@ use pocketmine\utils\TextFormat;
 class CustomEnchantCommand extends PluginCommand
 {
     /**
-     * CustomEnchantCommand constructor.
+     * CustomEnchantCommand constructor
      * @param string $name
      * @param Main   $plugin
      */
