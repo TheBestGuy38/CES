@@ -1,4 +1,5 @@
 <?php
+namespace DaPigGuy\PiggyCustomEnchants\CustomEnchants;
 use pocketmine\item\enchantment\Enchantment;
 /**
  * Class CustomEnchants
