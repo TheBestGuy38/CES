@@ -2,6 +2,8 @@
 
 namespace DaPigGuy\PiggyCustomEnchants;
 
+use DaPigGuy\PiggyCustomEnchants\CustomEnchants\CustomEnchants;
+use DaPigGuy\PiggyCustomEnchants\CustomEnchants\CustomEnchantsIds;
 use pocketmine\block\Block;
 use pocketmine\block\Crops;
 use pocketmine\entity\Effect;
