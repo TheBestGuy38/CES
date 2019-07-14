@@ -1,4 +1,3 @@
-    
 <?php
 namespace DaPigGuy\PiggyCustomEnchants\Commands;
 use DaPigGuy\PiggyCustomEnchants\CustomEnchants\CustomEnchants;
@@ -483,3 +482,4 @@ class CustomEnchantCommand extends PluginCommand
         }
         return "";
     }
+}
