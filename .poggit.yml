@@ -2,7 +2,7 @@
 branches:
 - master
 projects:
-  CES:
+  PiggyCustomEnchants:
     path: ""
     icon: ""
     libs:
