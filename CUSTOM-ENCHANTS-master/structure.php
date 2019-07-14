@@ -1,4 +1,7 @@
- use pocketmine\block\BlockFactory;
+<?php
+namespace DaPigGuy\PiggyCustomEnchants;
+
+use pocketmine\block\BlockFactory;
 use pocketmine\command\CommandSender;
 use pocketmine\entity\Entity;
 use pocketmine\item\Armor;
