@@ -1,9 +1,9 @@
-    name: PiggyCustomEnchants
+name: PiggyCustomEnchants
 main: DaPigGuy\PiggyCustomEnchants\Main
 version: 1.4.6
 api: 3.2.0
 mcpe-protocols: [361]
-load: POSTWORLD
+load: Nether_Spawn
 author: DaPigGuy
 permissions:
   piggycustomenchants:
