@@ -1,6 +1,9 @@
 <?php
 namespace DaPigGuy\PiggyCustomEnchants;
 
+use DaPigGuy\PiggyCustomEnchants\Commands\CustomEnchantCommand;
+use DaPigGuy\PiggyCustomEnchants\CustomEnchants\CustomEnchants;
+use DaPigGuy\PiggyCustomEnchants\CustomEnchants\CustomEnchantsIds;
 use pocketmine\block\BlockFactory;
 use pocketmine\command\CommandSender;
 use pocketmine\entity\Entity;
